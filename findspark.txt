@@ -1,0 +1,3 @@
+import findspark
+findspark.init('/home/fernando/spark-2.4.6-bin-hadoop2.7')
+import pyspark
